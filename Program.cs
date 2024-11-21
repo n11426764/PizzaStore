@@ -10,7 +10,7 @@ builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo
     {
-        Title = "Todo API",
+        Title = "PizzaStore API",
         Description = "Keep track of your tasks",
         Version = "v1"
     });
@@ -24,7 +24,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Todo API V1");
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "PizzaStore API V1");
     });
 }
 
