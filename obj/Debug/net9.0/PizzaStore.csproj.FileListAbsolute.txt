@@ -33,3 +33,4 @@
 /Users/masahiro/Desktop/PizzaStore/obj/Debug/net9.0/PizzaStore.csproj.AssemblyReference.cache
 /Users/masahiro/Desktop/PizzaStore/obj/Debug/net9.0/PizzaStore.MvcApplicationPartsAssemblyInfo.cs
 /Users/masahiro/Desktop/PizzaStore/obj/Debug/net9.0/PizzaStore.csproj.Up2Date
+/Users/masahiro/Desktop/PizzaStore/obj/Debug/net9.0/PizzaStore.sourcelink.json
